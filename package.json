@@ -11,7 +11,15 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.11"
+    "next": "14.2.11",
+    "ahooks": "^3.8.1",
+    "antd": "^5.20.6",
+    "axios": "^1.7.7",
+    "brainless-token-manager": "^1.3.3",
+    "cookies-next": "^4.2.1",
+    "i18next": "^23.15.1",
+    "js-cookie": "^3.0.5",
+    "react-i18next": "^15.0.1"
   },
   "devDependencies": {
     "typescript": "^5",
